@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "eternalsmp",
+	"version": "${version}",
+	"name": "Eternal SMP Items",
+	"description": "Offcial mod for the Eternal SMP!",
+	"authors": [
+		"Th3_Calam1ty"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/eternalsmp/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.amity.eternalsmp.EternalSMPItems"
+		],
+		"fabric-datagen": [
+			"net.amity.eternalsmp.EternalSMPItemsDataGenerator"
+		],
+		"client": [
+			"net.amity.eternalsmp.EternalSMPClient"
+		]
+	},
+	"mixins": [
+		"eternalsmp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
