@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "eternalsmp:tome"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "FTF",
+    "FFF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "eternalsmp:fire_tome"
+  }
+}

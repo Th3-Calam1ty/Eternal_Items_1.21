@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "eternalsmp:tome"
+    },
+    "W": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WTW",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "eternalsmp:death_tome"
+  }
+}

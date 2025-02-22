@@ -16,9 +16,23 @@ public class ModItemGroups {
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.ETERNAL_LOGO))
                     .displayName(Text.translatable("itemgroup.eternalsmp.eternal"))
                     .entries((displayContext, entries) -> {
-                        entries.add(ModItems.XERETHIS_STAFF);
                         entries.add(ModItems.ETERNAL_LOGO);
+                        entries.add(ModItems.XERETHIS_STAFF);
+                        entries.add(ModItems.TOME);
                         entries.add(ModItems.WIND_TOME);
+                        entries.add(ModItems.FIRE_TOME);
+                        entries.add(ModItems.DEATH_TOME);
+                        entries.add(ModItems.STARDUST);
+                        entries.add(ModItems.STARDUST_STICK);
+                        entries.add(ModItems.STARDUST_SWORD);
+                        entries.add(ModItems.STARDUST_PICKAXE);
+                        entries.add(ModItems.STARDUST_SHOVEL);
+                        entries.add(ModItems.STARDUST_AXE);
+                        entries.add(ModItems.STARDUST_HOE);
+                        entries.add(ModItems.STARDUST_HELMET);
+                        entries.add(ModItems.STARDUST_CHESTPLATE);
+                        entries.add(ModItems.STARDUST_LEGGINGS);
+                        entries.add(ModItems.STARDUST_BOOTS);
                     })
 
 

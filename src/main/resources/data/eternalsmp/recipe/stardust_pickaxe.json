@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "eternalsmp:stardust_stick"
+    },
+    "D": {
+      "item": "eternalsmp:stardust"
+    }
+  },
+  "pattern": [
+    "DDD",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "eternalsmp:stardust_pickaxe"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "eternalsmp:stardust_stick"
+    },
+    "D": {
+      "item": "eternalsmp:stardust"
+    }
+  },
+  "pattern": [
+    " D ",
+    " D ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "eternalsmp:stardust_sword"
+  }
+}

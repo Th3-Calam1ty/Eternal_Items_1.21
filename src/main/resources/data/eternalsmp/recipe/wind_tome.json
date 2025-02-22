@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "eternalsmp:tome"
+    },
+    "W": {
+      "item": "minecraft:wind_charge"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WTW",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "eternalsmp:wind_tome"
+  }
+}

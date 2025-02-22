@@ -2,7 +2,21 @@
   "item.eternalsmp.xerethis_staff": "Xerethis's Staff",
   "item.eternalsmp.eternal_logo": "Eternal Logo",
   "item.eternalsmp.wind_tome": "Wind Tome",
+  "item.eternalsmp.fire_tome": "Fire Tome",
+  "item.eternalsmp.death_tome": "Death Tome",
+  "item.eternalsmp.tome":  "Tome",
+  "item.eternalsmp.stardust": "Stardust",
+  "item.eternalsmp.stardust_pickaxe": "Stardust Pickaxe",
+  "item.eternalsmp.stardust_sword": "Stardust Sword",
+  "item.eternalsmp.stardust_shovel": "Stardust Shovel",
+  "item.eternalsmp.stardust_axe": "Stardust Axe",
+  "item.eternalsmp.stardust_hoe": "Stardust Hoe",
+  "item.eternalsmp.stardust_stick": "Stardust Stick",
+  "item.eternalsmp.stardust_helmet": "Stardust Helmet",
+  "item.eternalsmp.stardust_chestplate": "Stardust Chestplate",
+  "item.eternalsmp.stardust_leggings": "Stardust Leggings",
+  "item.eternalsmp.stardust_boots": "Stardust Boots",
 
-  "itemgroup.eternalsmp.eternal": "Eternal Items",
+  "itemgroup.eternalsmp.eternal": "Eternal Items"
 
 }
